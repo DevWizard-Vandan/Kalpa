@@ -1,0 +1,12 @@
+[submodule "Titan"]
+	path = Titan
+	url = https://github.com/DevWizard-Vandan/Titan
+[submodule "Vajra"]
+	path = Vajra
+	url = https://github.com/DevWizard-Vandan/Vajra
+[submodule "ritam"]
+	path = ritam
+	url = https://github.com/DevWizard-Vandan/ritam
+[submodule "radhe-ai"]
+	path = radhe-ai
+	url = https://github.com/DevWizard-Vandan/radhe-ai
